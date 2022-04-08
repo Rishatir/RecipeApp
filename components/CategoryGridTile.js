@@ -42,7 +42,6 @@ const styles = StyleSheet.create({
     },
     buttonPressed: {
         opacity: 0.5,
-
     },
     innerContainer: {
         flex: 1,
