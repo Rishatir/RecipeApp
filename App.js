@@ -8,7 +8,7 @@ import { Ionicons } from '@expo/vector-icons';
 import CategoriesScreen from './screens/CategoriesScreen';
 import MealsOverviewScreen from './screens/MealsOverviewScreen';
 import MealDetailScreen from './screens/MealDetailScreen';
-import FavouritesScreen from './screens/FavoritesScreen';
+import FavouritesScreen from './screens/FavouritesScreen';
 import FavouritesContextProvider from './store/context/favourites-context';
 
 const Stack = createNativeStackNavigator();
